@@ -28,13 +28,6 @@ namespace Exercise_5
         /// <summary>
         /// Create a random integer values array, then create functions that:
         ///1.to calculate the average value of array elements.
-        ///
-        ///
-        ///
-        ///
-        ///
-        ///▸
-        ///-
         ///</summary>
         static void Ex01()
         {
